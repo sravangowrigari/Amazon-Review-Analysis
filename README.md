@@ -40,10 +40,10 @@ A small synthetic dataset of 10 Amazon product reviews with varied sentiments. Y
 ---
 
 ## 📁 Repository Contents
-📁 Amazon_Sentiment_Analysis/
-├── amazon_reviews_sample.csv # Sample input data
-├── Amazon_Sentiment_Analysis.ipynb # Main Jupyter notebook
-└── README.md # Project documentation
+- 📁 Amazon_Sentiment_Analysis/
+- amazon_reviews_sample.csv # Sample input data
+- Amazon_Sentiment_Analysis.ipynb # Main Jupyter notebook
+- README.md # Project documentation
 
 
 ---
